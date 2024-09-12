@@ -35,7 +35,7 @@ title: About me
 
 # Academic Appointment
 - Assistant Researcher (Postdoctoral Fellow), [Huanjiang Observation and Research Station for Karst Ecosystems](http://data.ecokarst.isa.ac.cn/), [Institute of Subtropical Agriculture, Chinese Academy of Sciences](https://www.isa.cas.cn/), 2022-Present. Host: [Prof. Xianli Xu](https://people.ucas.ac.cn/~xuxianli)
-- [Specialized Researcher](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Laboratory of Soil Science](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Research Faculty of Agriculture, Hokkaido University](http://lab.agr.hokudai.ac.jp/env/soilscience/), 2021-2022. Host: [Prof. Toma Yo](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
+- [Specialized Researcher](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Laboratory of Soil Science](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Research Faculty of Agriculture, Hokkaido University](http://lab.agr.hokudai.ac.jp/env/soilscience/), 2021-2022. Host: [Prof. Yo Toma](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
 
 # Education
 - Ph.D., Environmental Resources, Hokkaido University, 2018-2021. Advisor: [Prof. Ryusuke Hatano](https://researchmap.jp/Ryusuke_Hatano) & [Prof. Toma Yo](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
