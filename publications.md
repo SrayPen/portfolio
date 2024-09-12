@@ -1,42 +1,20 @@
 ---
-title: "Publication and Conferences"
+title: "Publication"
 permalink: "/publication/"
 layout: page
 ---
 
-## Publications
+- Peng Shilei, Xianli Xu#, Renjun Liao, Binghui He, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024, '[Hydro-climatic extremes the shift hydrologic sensitivity regime in a cold basin](https://www.sciencedirect.com/science/article/pii/S0048969724048939), Science of the Total Environment, 949: 174744.
 
-[X.Lin*, Z.Zheng*., J.Topping*, W.Ma, Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity](https://escholarship.org/uc/item/8wm748d8)(Proceedings of the Annual Meeting of the Cognitive Science Society, 2022)   
+- Peng Shilei, Kunihito Mihara, Xianli Xu#, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024. '[Modeling hydrological processes under Multi-Model projections of climate change in a cold region of Hokkaido, Japan](https://www.sciencedirect.com/science/article/pii/S0341816223006963)', Catena, 234: 107605.
 
-## Conferences
-Learning How Humans Play Board Games with GPT-4IAR (FCAI AI Day 2023) 
+- Peng Shilei, Dong Yang, Qingqing Dai, Xuezhang Li, Zhenwei Li, Binghui He, and Xianli Xu#. 2024. '[Escalating hot-dry extremes in Southwest China Karst](https://www.sciencedirect.com/science/article/pii/S2214581824001861)', Journal of Hydrology: Regional Studies, 53: 101838.
 
-![title](/GPT_4IAR__FCAI_AI_Day_2023.png)
+- Peng Shilei, Chunying Wang#, Zhan Li, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2023. '[Climate change multi-model projections in CMIP6 scenarios in Central Hokkaido, Japan](https://www.nature.com/articles/s41598-022-27357-7#citeas)', Scientific Reports, 13: 230.
 
-Comparing Machine And Human Learning In A Planning Task Of Intermediate Complexity (The Multi-disciplinary Conference on Reinforcement Learning and Decision Making, 2022; Proceedings of the Annual Meeting of the Cognitive Science Society, 2022; )
+- Peng Shilei, Chunying Wang#, Sadao Eguchi, Kanta Kuramochi, Kazunori Kohyama, Seiko Yoshikawa, Sunao Itahashi, Masato Igura, Satoru Ohkoshi, and Ryusuke Hatano. 2021. '[Response of hydrological processes to climate and land use changes in Hiso River watershed, Fukushima, Japan](https://www.sciencedirect.com/science/article/pii/S1474706521000437)', Physics and Chemistry of the Earth, Parts A/B/C, 123: 103010.
 
-![title](/rldm2022.jpg)
 
-Dissection of inter-area interactions of motor circuits (Simons Collaboration for the Global Brain Annual Meeting, 2022; Society for Neuroscience Annual Meeting, 2022)
- - Abstract: Motor behaviors arise from dynamic interactions of interconnected neural populations across
-distributed brain areas. The underlying principles of information flow remain largely
-unknown. Here, we investigate the functional roles of motor cortex and intralaminar thalamus
-in driving specific subpopulations of the striatum - the input nucleus of the basal ganglia -
-during movements. We recorded the activity of direct and indirect pathway medium spiny
-neurons (dMSNs and iMSNs) in the striatum as mice performed a skilled motor task, by in
-vivo two-photon calcium imaging through GRIN lens. Furthermore, using monosynaptic
-pseudo-typed rabies virus we identified and imaged corticostriatal and thalamostriatal neurons
-that specifically project to dMSNs and iMSNs, through a glass window or a GRIN lens,
-respectively. MSNs showed a sustained population activity throughout movement duration
-that peaked at movement offset. Whereas, their cortical and thalamic inputs showed
-contrasting activity dynamics, with corticostriatal activity concentrated around movement
-onset and offset and thalamostriatal activity engaged during movement execution. To explore
-activity differences among dMSNs and iMSNs and their inputs, we developed Trial Ensemble
-Attention network (TEA-net) – a recurrent neural network with attention trained on ensembles
-of single-trial neuronal activity. This approach followed by clustering analysis identified
-quintessential activity patterns that were distinct between dMSNs and iMSNs and between
-cortical and thalamic neurons that specifically project onto them. The results provide insights
-on the mechanisms of integration of distinct long-range inputs carrying diverse information
-by MSN subpopulations.
+
 
 

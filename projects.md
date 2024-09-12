@@ -1,50 +1,25 @@
 ---
-title: "Research Projects"
+title: "Research Activities"
 permalink: "/projects/"
 layout: page
 ---
-# Thesis projects:
-## Learning How Humans Play Board Games with GPT-4IAR [[AAAI workshop]](/GPT_4IAR_AAAI_Submission.pdf)
-Wei Ji Ma lab + Luigi Acerbi lab, Department of Computer Science, University of Helsinki+ NYU (2023.6 — Present)
- - Trained a GPT model on a  large mobile game dataset to understand and predict different characteristics of human gameplay.
+# Conference
 
-## Compare planning between AI and humans [[Talk]](/0314_CNS_Labtalk.pdf)
-Wei Ji Ma lab, Center for Neural Science, NYU (2021.5 — Present)
- - Trained Deep Reinforcement learning models (AlphaZero type agents) to play a planning task of intermediate complexity.
- - Analyzed features learned by the trained Deep Reinforcement learning networks.
- - Studied the learning and planning mechanisms of AlphaZero agents and compared those to a human planning model
+- Shilei Peng, “Escalating hot-dry extremes in Southwest China Karst”. The 4th International Symposium on Sustainable Agriculture for Subtropical Region，ISSASR-4, 2024, June 21-24, 2024. Changsha. China. 
+- Shilei Peng, “[Evaluation of hydrological processes and radiocesium transportations in Hiso River watershed, Fukushima, Japan](https://www.jstage.jst.go.jp/article/dohikouen/67/0/67_11_3/_article/-char/ja)”. Annual meeting of Japanese Society of Soil Science and Plant Nutrition, 2021, Hokkaido. September 14-16, 2021. Hokkaido University. Japan. 
+- Shilei Peng, “[Response of hydrological processes to climate and land use changes in Hiso River watershed, Fukushima, Japan](https://meetingorganizer.copernicus.org/EGU21/EGU21-5316.html)”. The EGU General Assembly 2021. April 19-30, 2021. Vienna, Austria. 
+- Shilei Peng, “[Modeling of streamflow and sediment yield in a cold and mountain-dominated basin](https://www.jstage.jst.go.jp/article/dohikouen/66/0/66_3_1/_article/-char/ja)”. Annual meeting of Japanese Society of Soil Science and Plant Nutrition, 2020, Okayama. September 8-10, 2020. Okayama University. Japan. 
+- Shilei Peng, “[Modeling sediment yield response to land use change using SWAT model in Hiso basin, Fukushima, Japan]()”. The 14th International Conference of the East and Southeast Asia Federation of Soil Science Societies (ESAFS). November 3-8, 2019. National Taiwan University, Taipei, Taiwan. 
+- Shilei Peng, “[Simulation sediment yield using the SWAT model: A Case Study of Hiso Watershed, Fukushima, Japan](https://www.jstage.jst.go.jp/article/dohikouen/65/0/65_12_1/_article/-char/ja)”. Annual meeting of Japanese Society of Soil Science and Plant Nutrition, 2019, Shizuoka. September 3-5, 2019. Shizuoka University. Japan. 
 
-## Improve the efficiency of an unbiased log-likelihood estimation method 
-Luigi Acerbi lab, Department of Computer Science, University of Helsinki (2021.3 — present)
- - Compared the efficiencies of log-likelihood estimations in different models using Inverse Binomial Sampling with different
-allocation methods.
- - Develop a toolbox for a more efficient Inverse Binomial Sampling method that can estimate the log-likelihood unbiasedly.
 
-## The latent factors of complex planning decisions
-Wei Ji Ma lab, Center for Neural Science, NYU (2020.10 — Present)
- - Coded a battery of 9 planning tasks and cognitive tasks to run a large web-based online study.
- - Investigated the individual differences and latent structure of planning decisions and modelled how planning is related to basic cognitive abilities.
+# Reviewer
 
-# Other projects:
+-   [Acta Geophysica](https://link.springer.com/journal/11600)
+-   [CATENA](https://www.sciencedirect.com/journal/catena)
+-   [Journal of Environmental Science and Management](https://ovcre.uplb.edu.ph/journals-uplb/index.php/JESAM)
+-   [Journal of Advanced Research in Fluid Mechanics and Thermal Sciences](https://semarakilmu.com.my/journals/index.php/fluid_mechanics_thermal_sciences/index)
+-   [Forestry Science](https://lykx.aqikan.net/)
 
-## Using Artificail Neural Networks to Approximate Bayesian Inference  [[Paper]](/CCM_Final_Project.pdf)
-Computational Cognitive Modelling final project, Center for Data Science, NYU (2021.2 — 2021.5)
- - Trained artificial neural networks (ANNs) on a task that requires inductive reasoning and found that ANNs can perform these tasks using Bayesian-like strategies without the need for an explicit computation of the log likelihood
-
-## “Double Descent” and Deep Gaussian Processes
-Bayesian Machine Learning final project, Center for Data Science, NYU (2020.10 — 202012)
- - Investigated the “Double Descent” phenomenon in Deep Gaussian Processes by looking into performance of testing error as a function of model depth/width/kernel complexity
-
-## Hidden Markov Models
-Eero Simoncelli Lab, Center for Neural Science, NYU (2020.2 - 2020.9)
- - Used Hidden Markov Model to model the context-dependent representations of Visual Cortex.
-
-## Automatic behavioral tracking 
-Christine Constantinople lab, Center for Neural Science, NYU (2019.9 - 2019.12)
- - Developed behavioral analysis pipeline by training a Convolutional Neural Network to automatically track head angles of rats
-
-## Large neural population analysis 
-Takaki Komiyama Lab, UCSD (2017.1 — 2019.6)
- - Analyzed large-scale activities of over 8000 neurons and investigated the source of information segregation for motor control
 
  
