@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title: "Activities"}
 
   # - {url: "/daisy_resume.pdf", title: "Resume"}
-  - {file: "talks.html", title: "青甘小环线自驾游详细行程（国庆版）"}
+  # - {file: "talks.html", title: "青甘小环线自驾游详细行程（国庆版）"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
