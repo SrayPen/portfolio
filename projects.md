@@ -17,6 +17,7 @@ layout: page
 
 -   [Acta Geophysica](https://link.springer.com/journal/11600)
 -   [CATENA](https://www.sciencedirect.com/journal/catena)
+-   [Journal of Hydrology](https://ovcre.uplb.edu.ph/journals-uplb/index.php/JESAM](https://www.sciencedirect.com/journal/journal-of-hydrology )
 -   [Journal of Environmental Science and Management](https://ovcre.uplb.edu.ph/journals-uplb/index.php/JESAM)
 -   [Journal of Advanced Research in Fluid Mechanics and Thermal Sciences](https://semarakilmu.com.my/journals/index.php/fluid_mechanics_thermal_sciences/index)
 -   [Forestry Science](https://lykx.aqikan.net/)
