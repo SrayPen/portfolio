@@ -38,6 +38,6 @@ title:
 - [Specialized Researcher](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Laboratory of Soil Science](https://www.agr.hokudai.ac.jp/r/lab/soil-science), [Research Faculty of Agriculture, Hokkaido University](http://lab.agr.hokudai.ac.jp/env/soilscience/), 2021-2022. Host: [Prof. Yo Toma](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
 
 # Education
-- Ph.D., Environmental Resources, Hokkaido University, 2018-2021. Advisor: [Prof. Ryusuke Hatano](https://researchmap.jp/Ryusuke_Hatano) & [Prof. Toma Yo](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
+- Ph.D., Environmental Resources, Hokkaido University, 2018-2021. Advisor: [Prof. Ryusuke Hatano](https://researchmap.jp/Ryusuke_Hatano) & [Prof. Yo Toma](https://researchers.general.hokudai.ac.jp/profile/en.bb17cbceca288aea520e17560c007669.html)
 - M.S., Soil and Water Conservation and Desertification Combating, Southwest University, 2015-2018. Advisor: [Prof. Binghui He](http://zihuan.swu.edu.cn/info/1212/10068.htm)
 - B.S., Soil and Water Conservation and Desertification Combating, Southwest University, 2011-2015. Advisor: [Prof. Binghui He](http://zihuan.swu.edu.cn/info/1212/10068.htm)
