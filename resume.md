@@ -8,7 +8,7 @@ layout: page
 You can view my resume below:
 
 <div class="pdf-container">
-    <iframe src="/portfolio/output.pdf#toolbar=0&navpanes=0" width="100%" height="600px" style="border: none;">
+    <iframe src="/portfolio/outputt.pdf#toolbar=0&navpanes=0" width="100%" height="600px" style="border: none;">
         <p>Your browser does not support iframes. Please contact me for a copy of my resume.</p>
     </iframe>
 </div>
