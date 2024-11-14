@@ -4,9 +4,9 @@ permalink: "/publication/"
 layout: page
 ---
 
-- Lulu Zhou, Shilei Peng#, Renjun Liao, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024, Extremes of temperature and precipitation under CMIP6 scenarios projections over Central Hokkaido, Japan, International Journal of Climatology, 10.1002/joc.8680.
+- Lulu Zhou, Shilei Peng#, Renjun Liao, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024. '[Extremes of temperature and precipitation under CMIP6 scenarios projections over Central Hokkaido, Japan](https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8680)', International Journal of Climatology, [10.1002/joc.8680](https://doi.org/10.1002/joc.8680).
   
-- Shilei Peng, Xianli Xu#, Renjun Liao, Binghui He, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024, '[Hydro-climatic extremes the shift hydrologic sensitivity regime in a cold basin](https://www.sciencedirect.com/science/article/pii/S0048969724048939), Science of the Total Environment, 949: 174744.
+- Shilei Peng, Xianli Xu#, Renjun Liao, Binghui He, Kunihito Mihara, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024. '[Hydro-climatic extremes the shift hydrologic sensitivity regime in a cold basin](https://www.sciencedirect.com/science/article/pii/S0048969724048939), Science of the Total Environment, 949: 174744.
 
 - Shilei Peng, Kunihito Mihara, Xianli Xu#, Kanta Kuramochi, Yo Toma, and Ryusuke Hatano. 2024. '[Modeling hydrological processes under Multi-Model projections of climate change in a cold region of Hokkaido, Japan](https://www.sciencedirect.com/science/article/pii/S0341816223006963)', Catena, 234: 107605.
 
